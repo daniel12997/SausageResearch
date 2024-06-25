@@ -1,0 +1,10 @@
+@book{faa211ce-95ec-3182-9f2b-16f981b940c0,
+ URL = {http://www.jstor.org/stable/10.7591/j.ctt7z65p},
+ abstract = {In the closing years of the fourteenth century, an anonymous French writer compiled a book addressed to a fifteen-year-old bride, narrated in the voice of her husband, a wealthy, aging Parisian. The book was designed to teach this young wife the moral attributes, duties, and conduct befitting a woman of her station in society, in the almost certain event of her widowhood and subsequent remarriage. The work also provides a rich assembly of practical materials for the wife's use and for her household, including treatises on gardening and shopping, tips on choosing servants, directions on the medical care of horses and the training of hawks, plus menus for elaborate feasts, and more than 380 recipes.The Good Wife's Guideis the first complete modern English translation of this important medieval text also known asLe Ménagier de Paris(the Parisian household book), a work long recognized for its unique insights into the domestic life of the bourgeoisie during the later Middle Ages.The Good Wife's Guide, expertly rendered into modern English by Gina L. Greco and Christine M. Rose, is accompanied by an informative critical introduction setting the work in its proper medieval context as a conduct manual. This edition presents the book in its entirety, as it must have existed for its earliest readers.TheGuideis now a treasure for the classroom, appealing to anyone studying medieval literature or history or considering the complex lives of medieval women. It illuminates the milieu and composition process of medieval authors and will in turn fascinate cooking or horticulture enthusiasts. The work illustrates how a (perhaps fictional) Parisian householder of the late fourteenth century might well have trained his wife so that her behavior could reflect honorably on him and enhance his reputation.},
+ author = {GINA L. GRECO and CHRISTINE M. ROSE},
+ edition = {1},
+ publisher = {Cornell University Press},
+ title = {The Good Wife's Guide (Le Ménagier de Paris): A Medieval Household Book},
+ urldate = {2024-05-20},
+ year = {2009}
+}

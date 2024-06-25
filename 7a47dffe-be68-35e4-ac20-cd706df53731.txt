@@ -1,0 +1,13 @@
+@article{7a47dffe-be68-35e4-ac20-cd706df53731,
+ ISSN = {21513481},
+ URL = {http://www.jstor.org/stable/41888584},
+ author = {Daniel Martin Varisco},
+ journal = {Review of Middle East Studies},
+ number = {1},
+ pages = {116--117},
+ publisher = {Middle East Studies Association of North America (MESA)},
+ reviewed-author = {Nawal Nasrallah},
+ urldate = {2024-05-20},
+ volume = {43},
+ year = {2009}
+}
